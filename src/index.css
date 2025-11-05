@@ -1,0 +1,13 @@
+.appContainer{
+  display: flex;
+
+}
+.container{
+  width: 100%;
+}
+.sidebar{
+  min-height: 100vh;
+}
+.list{
+  display: flex;
+}
